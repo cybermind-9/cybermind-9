@@ -1,9 +1,9 @@
 # Hello, I'm Tufan
 <a href="www.linkedin.com/in/pande-tufan"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+
+I am an entry-level cybersecurity analyst who has recently completed the Google Cybersecurity Professional Certification. I have acquired foundational skills and knowledge necessary for a career in cybersecurity. This certification equips me with practical expertise in areas such as network security, threat detection, incident response, and risk management. I am familiar with tools and techniques for identifying vulnerabilities, securing IT infrastructures, and protecting against cyber threats. I am also trained in monitoring security systems, analyzing logs, and responding to security breaches. This certification serves as a strong foundation for pursuing further development and more advanced roles in the cybersecurity field
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
