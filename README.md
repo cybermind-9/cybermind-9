@@ -23,6 +23,29 @@ As an aspiring cybersecurity professional, my objective is to develop a deep und
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 | Phishing Email Campaign Using Gophish | <a href="https://github.com/Itsme-crypto/Gophish-Phishing-Campaign">Git Repository </a>
 
+## Certifications
+
+<div>
+
+<a href="https://1drv.ms/b/c/80f1bb1094f369e7/ERQ-bL_cX5RJkpJD80as-ZYBvj4nbLrU9wZrmtJT04dJfA?e=YSA5BQ" target="_blank">
+  <img src="https://img.shields.io/badge/-Google%20Cybersecurity-4285F4?style=for-the-badge&logo=Google&logoColor=white" />
+</a>
+
+<a href="https://1drv.ms/b/c/80f1bb1094f369e7/EWDN38QvLptBtU7M2IT_7J8B3KDVkoh-QDgwq758TPosvw?e=HbnUa6" target="_blank">
+  <img src="https://img.shields.io/badge/-AWS%20Certified%20Cloud-FF9900?style=for-the-badge&logo=Amazon%20AWS&logoColor=white" />
+</a>
+<a href="https://1drv.ms/b/c/80f1bb1094f369e7/EYbhOnv7hVhDoNC2ofPkd9kBejYk1pzFbGQtDNHwllgH_A?e=7aLFFY" target="_blank">
+  <img src="https://img.shields.io/badge/-ISO%2FIEC%2027001-2E8B57?style=for-the-badge&logo=SimpleIcons&logo=security&logoColor=white" />
+</a>
+<a href="https://1drv.ms/b/c/80f1bb1094f369e7/EVN7IrpDRqROhLIkBWCGHzsBvrQV3w6Hk8Td4Ir1Dhbpfg?e=HsoGD3" target="_blank">
+  <img src="https://img.shields.io/badge/-NVIDIA%20Networking-76B900?style=for-the-badge&logo=NVIDIA&logoColor=white" />
+</a>
+<a href="https://1drv.ms/b/c/80f1bb1094f369e7/ERl7h1ysDOxOpuuwZB0a4lMB3VOAdOZg-H1WTmWiGnr61A?e=aBYt7v" target="_blank">
+  <img src="https://img.shields.io/badge/-IBM%20Cybersecurity-054ADA?style=for-the-badge&logo=IBM&logoColor=white" />
+</a>
+
+</div>
+
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
@@ -46,16 +69,5 @@ As an aspiring cybersecurity professional, my objective is to develop a deep und
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
-## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
-<div>
-<a href="https://1drv.ms/b/c/80f1bb1094f369e7/EZrBNtxLyW9ChCYSiR7Tn4IBTwTumejihoNfCmnBkArL0Q?e=f40w1A" target="_blank">NVIDA Introduction to networking</a>
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
-</div>
 
-## Projects
-- Detection Lab
-- SOC Automation Project
+
