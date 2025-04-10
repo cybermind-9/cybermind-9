@@ -6,15 +6,14 @@
 I am an entry-level cybersecurity analyst who has recently completed the Google Cybersecurity Professional Certification. I have acquired foundational skills and knowledge necessary for a career in cybersecurity. This certification equips me with practical expertise in areas such as network security, threat detection, incident response, and risk management. I am familiar with tools and techniques for identifying vulnerabilities, securing IT infrastructures, and protecting against cyber threats. I am also trained in monitoring security systems, analyzing logs, and responding to security breaches. This certification serves as a strong foundation for pursuing further development and more advanced roles in the cybersecurity field
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
+As an aspiring cybersecurity professional, my objective is to develop a deep understanding of security principles, threat detection, and risk mitigation. I am committed to continuously building hands-on skills through training, certifications, and real-world experience to contribute to safeguarding digital environments and becoming a valuable asset to any security team.
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
-## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+## Projects 
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
+
+| Projects                                         | Links         | Skills  |
+|-----------------------------------------------|----------------------------|-------------------------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection |<a href="https://google.com">Detection Lab</a> |
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
