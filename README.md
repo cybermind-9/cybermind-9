@@ -27,7 +27,7 @@ As an aspiring cybersecurity professional, my objective is to develop a deep und
 
 <div>
 
-<a href="https://1drv.ms/b/c/80f1bb1094f369e7/ERQ-bL_cX5RJkpJD80as-ZYBvj4nbLrU9wZrmtJT04dJfA?e=YSA5BQ" target="_blank">
+<a href="https://1drv.ms/b/c/80f1bb1094f369e7/ERQ-bL_cX5RJkpJD80as-ZYBvj4nbLrU9wZrmtJT04dJfA?e=YSA5BQ" >
   <img src="https://img.shields.io/badge/-Google%20Cybersecurity-4285F4?style=for-the-badge&logo=Google&logoColor=white" />
 </a>
 
