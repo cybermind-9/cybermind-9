@@ -31,16 +31,16 @@ As an aspiring cybersecurity professional, my objective is to develop a deep und
   <img src="https://img.shields.io/badge/-Google%20Cybersecurity-4285F4?style=for-the-badge&logo=Google&logoColor=white" />
 </a>
 
-<a href="https://1drv.ms/b/c/80f1bb1094f369e7/EWDN38QvLptBtU7M2IT_7J8B3KDVkoh-QDgwq758TPosvw?e=HbnUa6" target="_blank">
+<a href="https://1drv.ms/b/c/80f1bb1094f369e7/EWDN38QvLptBtU7M2IT_7J8B3KDVkoh-QDgwq758TPosvw?e=HbnUa6" >
   <img src="https://img.shields.io/badge/-AWS%20Certified%20Cloud-FF9900?style=for-the-badge&logo=Amazon%20AWS&logoColor=white" />
 </a>
-<a href="https://1drv.ms/b/c/80f1bb1094f369e7/EYbhOnv7hVhDoNC2ofPkd9kBejYk1pzFbGQtDNHwllgH_A?e=7aLFFY" target="_blank">
+<a href="https://1drv.ms/b/c/80f1bb1094f369e7/EYbhOnv7hVhDoNC2ofPkd9kBejYk1pzFbGQtDNHwllgH_A?e=7aLFFY">
   <img src="https://img.shields.io/badge/-ISO%2FIEC%2027001-2E8B57?style=for-the-badge&logo=SimpleIcons&logo=security&logoColor=white" />
 </a>
-<a href="https://1drv.ms/b/c/80f1bb1094f369e7/EVN7IrpDRqROhLIkBWCGHzsBvrQV3w6Hk8Td4Ir1Dhbpfg?e=HsoGD3" target="_blank">
+<a href="https://1drv.ms/b/c/80f1bb1094f369e7/EVN7IrpDRqROhLIkBWCGHzsBvrQV3w6Hk8Td4Ir1Dhbpfg?e=HsoGD3" >
   <img src="https://img.shields.io/badge/-NVIDIA%20Networking-76B900?style=for-the-badge&logo=NVIDIA&logoColor=white" />
 </a>
-<a href="https://1drv.ms/b/c/80f1bb1094f369e7/ERl7h1ysDOxOpuuwZB0a4lMB3VOAdOZg-H1WTmWiGnr61A?e=aBYt7v" target="_blank">
+<a href="https://1drv.ms/b/c/80f1bb1094f369e7/ERl7h1ysDOxOpuuwZB0a4lMB3VOAdOZg-H1WTmWiGnr61A?e=aBYt7v" >
   <img src="https://img.shields.io/badge/-IBM%20Cybersecurity-054ADA?style=for-the-badge&logo=IBM&logoColor=white" />
 </a>
 
