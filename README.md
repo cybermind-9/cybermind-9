@@ -52,24 +52,87 @@ As an aspiring cybersecurity professional, my objective is to develop a deep und
 ## Tools
 
 
-### Network
+### Security Information and Event Management (SIEM)
+Tools that collect, aggregate, and analyze logs to detect threats.
 <div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-</div>
-
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
-
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+    <img src="https://img.shields.io/badge/-IBM%20QRadar-052FAD?&style=for-the-badge&logo=IBM&logoColor=white" />
+    <img src="https://img.shields.io/badge/-ELK%20Stack-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+</div>
+<br> <br/>
+
+### Cloud Security Monitoring
+Secure and monitor cloud environments.
+<div>
+    <img src="https://img.shields.io/badge/-AWS_GuardDuty-FF9900?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Cloud-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Google_Chronicle-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
+</div>
+
+<br> <br/>
+### Network Security Monitoring (NSM) / IDS / IPS
+Monitor network traffic to detect suspicious activities.
+<div>
+    <img src="https://img.shields.io/badge/-Zeek-333366?&style=for-the-badge&logo=Zeek&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Snort-A61656?&style=for-the-badge&logo=Snort&logoColor=white" />
+</div>
+
+<br> <br/>
+### Endpoint Detection and Response (EDR)
+Monitor, detect, and respond to threats on endpoints.
+
+<div>
+    <img src="https://img.shields.io/badge/-Wazuh-005478?&style=for-the-badge&logo=Wazuh&logoColor=white" />
+    <img src="https://img.shields.io/badge/-CrowdStrike_Falcon-E22D2D?&style=for-the-badge&logo=CrowdStrike&logoColor=white" />
+    <img src="https://img.shields.io/badge/-SentinelOne-5C2D91?&style=for-the-badge&logo=SentinelOne&logoColor=white" />
+</div>
+
+<br> <br/>
+### Digital Forensics & Incident Response (DFIR)
+Analyze systems and recover evidence after an incident.
+
+<div>
+    <img src="https://img.shields.io/badge/-Volatility-1F1F1F?&style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgdmlld0JveD0iMCAwIDI0IDI0IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Ik0xMSAxMkExLjAwMSAxLjAwMSAwIDAgMCAxMCAxMWEyLjAwMiAyLjAwMiAwIDAgMC0yIDIgMi4wMDIgMi4wMDIgMCAwIDAgMiAyaC0uMDAxdi0uMDAyYTIuMDAyIDIuMDAyIDAgMCAwIDIuMDAxLTIuMDAySDEzYTEuMDAxIDEuMDAxIDAgMCAwLS45OTktMSAxLjAwMSAxLjAwMSAwIDAgMC0uMDAxLTIuMDAxWm0wLTZBMTAuMDAyIDEwLjAwMiAwIDAgMCAxIDEyQTEwIDEwIDAgMSAwIDExIDF6Ii8+PC9zdmc+&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Autopsy-2E3A59?&style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgMjQwIDI0MCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNMTIwIDFDMjcuMSAxIDEgMjcuMSAxIDI0MHMtLjEgOTIgMTE5IDEzOSA5MiAxMzkgOTIgMTM5IDkyaDAuMWMxMTEgMCAxMzktOTIgMTM5LTkydi0uMWMxMS0xMTEtOTItMTM4LTk1LTEzOEwxMjAgMXoiLz48L3N2Zz4=&logoColor=white" />
+</div>
+
+<br> <br/>
+### Security Orchestration, Automation, and Response (SOAR)
+Automate responses and integrate tools into workflows.
+
+<div>
+    <img src="https://img.shields.io/badge/-Splunk_Phantom-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Shuffle-6C2DC7?&style=for-the-badge&logo=shuffle&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Cortex_XSOAR-FF6F00?&style=for-the-badge&logo=Palo%20Alto%20Networks&logoColor=white" />
+</div>
+
+<br> <br/>
+### Threat Hunting
+Proactively searching for signs of malicious activity.
+
+<div>
+    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNjQiIGhlaWdodD0iNjQiIHZpZXdCb3g9IjAgMCA2NCA2NCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cmVjdCB3aWR0aD0iNjQiIGhlaWdodD0iNjQiIHJ4PSIyOCIgc3R5bGU9ImZpbGw6I2ZmZjsgc3Ryb2tlOiM0QjI3NUY7IHN0cm9rZS13aWR0aDoyOyIvPjwvc3ZnPg==" />
+   <img src="https://img.shields.io/badge/-Elastic_Stack-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+
+</div>
+
+<br> <br/>
+###  Identity & Access Management (IAM)
+Manage user identities and access controls.
+
+<div>
+    <img src="https://img.shields.io/badge/-Microsoft_Azure_AD-0078D4?&style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" />
+</div>
+
+<br> <br/>
+### OSINT & External Threat Monitoring
+Discover public exposure of assets or data.
+
+<div>
+    <img src="https://img.shields.io/badge/-Shodan-F11712?&style=for-the-badge&logo=shodan&logoColor=white" />
+    <img src="https://img.shields.io/badge/-theHarvester-333333?&style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHZpZXdCb3g9IjAgMCA0OCA0OCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Y2lyY2xlIGN4PSIyNCIgY3k9IjI0IiByPSIyMCIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBmaWxsPSIjMzMzIi8+PHRleHQgeD0iMjQiIHk9IjMwIiBmb250LXNpemU9IjEwIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmaWxsPSJ3aGl0ZSIgdGV4dC1mYW1pbHk9Ik1vbm9zcGFjZSI+VGg8L3RleHQ+PC9zdmc+" />
+    <img src="https://img.shields.io/badge/-SpiderFoot-0C2340?&style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjZmZmIiB3aWR0aD0iNjQiIGhlaWdodD0iNjQiIHZpZXdCb3g9IjAgMCA2NCA2NCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNMzIgMTNjMTMuMjUgMCAyNCAxMC43NSAyNCAyNFM0NS4yNSAzOSAzMiAzOUMxOC43NSAzOSAxMiAzMi4yNSAxMiAyM0MxMiAxMC43NSAyMi43NSAxMyAzMiAxM3oiLz48L3N2Zz4=" />
 </div>
 
 
