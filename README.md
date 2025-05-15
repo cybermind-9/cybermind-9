@@ -5,10 +5,11 @@
 
 I am an entry-level cybersecurity analyst who has recently completed the Google Cybersecurity Professional Certification. I have acquired foundational skills and knowledge necessary for a career in cybersecurity. This certification equips me with practical expertise in areas such as network security, threat detection, incident response, and risk management. I am familiar with tools and techniques for identifying vulnerabilities, securing IT infrastructures, and protecting against cyber threats. I am also trained in monitoring security systems, analyzing logs, and responding to security breaches. This certification serves as a strong foundation for pursuing further development and more advanced roles in the cybersecurity field
 
+<br> <br/>
 ## Objective
 As an aspiring cybersecurity professional, my objective is to develop a deep understanding of security principles, threat detection, and risk mitigation. I am committed to continuously building hands-on skills through training, certifications, and real-world experience to contribute to safeguarding digital environments and becoming a valuable asset to any security team.
 
-
+<br> <br/>
 ## Projects 
 
 
@@ -23,6 +24,7 @@ As an aspiring cybersecurity professional, my objective is to develop a deep und
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 | Phishing Email Campaign Using Gophish | <a href="https://github.com/Itsme-crypto/Gophish-Phishing-Campaign">Git Repository </a>
 
+<br> <br/>
 ## Certifications
 
 <div>
@@ -46,8 +48,9 @@ As an aspiring cybersecurity professional, my objective is to develop a deep und
 
 </div>
 
+<br> <br/>
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+
 
 ### Network
 <div>
