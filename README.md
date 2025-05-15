@@ -63,9 +63,10 @@ Completed multiple real-world cybersecurity job simulations designed by leading 
 + Evaluated cyber risk and crafted an incident response plan
 + Identified best practices for corporate cyber defense
 <div>
-<a href="https://www.theforage.com/virtual-internships/prototype/M7Nf5sGPX3QRm9Kz7/AIG-Shields-Up-Cybersecurity-Virtual-Experience-Program](https://1drv.ms/b/c/80f1bb1094f369e7/EWWqZjNotvVPlXdXcDJVTe0B2kTwsrom3OD6Nva2JxrJeg?e=TkYyfY">
+<a href="https://1drv.ms/b/c/80f1bb1094f369e7/EWWqZjNotvVPlXdXcDJVTe0B2kTwsrom3OD6Nva2JxrJeg?e=TkYyfY">
   <img src="https://img.shields.io/badge/-AIG%20Cybersecurity-003865?style=for-the-badge&logo=AIG&logoColor=white" />
 </a>
+
 <div/>
 <br> <br/>
 
