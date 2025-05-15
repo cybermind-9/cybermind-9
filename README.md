@@ -6,11 +6,11 @@
 I am an entry-level cybersecurity analyst who has recently completed the Google Cybersecurity Professional Certification. I have acquired foundational skills and knowledge necessary for a career in cybersecurity. This certification equips me with practical expertise in areas such as network security, threat detection, incident response, and risk management. I am familiar with tools and techniques for identifying vulnerabilities, securing IT infrastructures, and protecting against cyber threats. I am also trained in monitoring security systems, analyzing logs, and responding to security breaches. This certification serves as a strong foundation for pursuing further development and more advanced roles in the cybersecurity field
 
 <br> <br/>
-## Objective
+# Objective
 As an aspiring cybersecurity professional, my objective is to develop a deep understanding of security principles, threat detection, and risk mitigation. I am committed to continuously building hands-on skills through training, certifications, and real-world experience to contribute to safeguarding digital environments and becoming a valuable asset to any security team.
 
 <br> <br/>
-## Projects 
+# Projects 
 
 
 | Projects                                         | Links         | Skills  |
@@ -25,7 +25,7 @@ As an aspiring cybersecurity professional, my objective is to develop a deep und
 | Phishing Email Campaign Using Gophish | <a href="https://github.com/Itsme-crypto/Gophish-Phishing-Campaign">Git Repository </a>
 
 <br> <br/>
-## Certifications
+# Certifications
 
 <div>
 
@@ -49,7 +49,9 @@ As an aspiring cybersecurity professional, my objective is to develop a deep und
 </div>
 
 <br> <br/>
-## Cybersecurity Job Simulations
+
+
+# Cybersecurity Job Simulations
 **Platform:** Forage
 ### Overview:
 
@@ -57,6 +59,46 @@ Completed multiple real-world cybersecurity job simulations designed by leading 
 
 <br> <br/>
 ### Key Simulations Completed:
+
+### DATACOM – Cybersecurity Job Simulation
++ Identified vulnerabilities in a simulated client environment
++ Developed remediation strategies and security roadmaps
++ Practiced communication of findings to business stakeholders
+
+<div>
+  <a href="https://1drv.ms/b/c/80f1bb1094f369e7/EboqIolOeXVEkOpGo8GJ4TYBGEQri4xtEm5jN3Ht1da4Zg?e=lHop4T">
+    <img src="https://img.shields.io/badge/-DATACOM%20Cybersecurity-005BAC?style=for-the-badge&logoColor=white" />
+  </a>
+</div>
+
+<br> <br/>
+
+### Tata – Identity and Access Management (IAM) Program
++ Gained practical insight into IAM tools and frameworks
++ Managed simulated access controls and role-based permissions
++ Explored regulatory and compliance aspects of IAM
+
+<div>
+  <a href="https://1drv.ms/b/c/80f1bb1094f369e7/EeJJUgiX3QNMutO0a2RVdaMBU-puFCVCQUm3ceJRW13wPQ?e=VCbXco">
+    <img src="https://img.shields.io/badge/-Tata%20IAM%20Program-0066B3?style=for-the-badge&logo=tata&logoColor=white" />
+  </a>
+</div>
+
+<br> <br/>
+
+### Mastercard – Cybersecurity Analyst Program
++ Simulated real-time threat monitoring in a SOC (Security Operations Center)
++ Investigated phishing incidents and applied threat intelligence
++ Created executive-level briefings on cyber incidents
+
+<div>
+  <a href="https://1drv.ms/b/c/80f1bb1094f369e7/EYEbDSwzySFPouvcKR-GgM0BEL2m5quBAfdxrM495_lFGQ?e=da2e5R">
+    <img src="https://img.shields.io/badge/-Mastercard%20Cybersecurity-EB001B?style=for-the-badge&logo=mastercard&logoColor=white" />
+  </a>
+</div>
+
+<br> <br/>
+
 
 ### AIG – Shields Up Cybersecurity Virtual Experience Program
 + Analyzed and responded to evolving global threat landscapes
@@ -74,30 +116,29 @@ Completed multiple real-world cybersecurity job simulations designed by leading 
 + Reviewed internal cyber threats and conducted risk assessments
 + Participated in scenario-based incident response activities
 + Drafted cybersecurity recommendations for executives
+
+<div>
+  <a href="https://1drv.ms/b/c/80f1bb1094f369e7/EXEy3ZTf379Giv2BlBa7XQcBmekFN6jO7i3HtRZfKjafCg?e=Qg7HmG">
+    <img src="https://img.shields.io/badge/-ANZ%20Cybersecurity-002B5C?style=for-the-badge&logo=anz&logoColor=white" />
+  </a>
+</div>
+
 <br> <br/>
 
-### DATACOM – Cybersecurity Job Simulation
-+ Identified vulnerabilities in a simulated client environment
-+ Developed remediation strategies and security roadmaps
-+ Practiced communication of findings to business stakeholders
-<br> <br/>
 
-### Mastercard – Cybersecurity Analyst Program
-+ Simulated real-time threat monitoring in a SOC (Security Operations Center)
-+ Investigated phishing incidents and applied threat intelligence
-+ Created executive-level briefings on cyber incidents
-<br> <br/>
+
 
 ### PwC Switzerland – Cybersecurity Virtual Case Experience
 + Conducted a business risk and impact assessment
 + Evaluated client's security maturity and compliance standing
 + Presented findings in a professional consulting format
-<br> <br/>
 
-### Tata – Identity and Access Management (IAM) Program
-+ Gained practical insight into IAM tools and frameworks
-+ Managed simulated access controls and role-based permissions
-+ Explored regulatory and compliance aspects of IAM
+<div>
+  <a href="https://1drv.ms/b/c/80f1bb1094f369e7/ERHda0LDDeZPrX2u7KggQy8BZPvHRrW2ZrxYatoor-_lvQ?e=TSYuGq">
+    <img src="https://img.shields.io/badge/-PwC%20Switzerland%20Cybersecurity-F36F21?style=for-the-badge&logo=pwc&logoColor=white" />
+  </a>
+</div>
+
 <br> <br/>
 
 ### Skills Gained:
@@ -110,8 +151,9 @@ Completed multiple real-world cybersecurity job simulations designed by leading 
 + Executive communication of technical findings
 
   <br> <br/>
-## Tools
 
+  
+# Tools
 
 ### Security Information and Event Management (SIEM)
 Tools that collect, aggregate, and analyze logs to detect threats.
