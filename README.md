@@ -49,6 +49,66 @@ As an aspiring cybersecurity professional, my objective is to develop a deep und
 </div>
 
 <br> <br/>
+## Cybersecurity Job Simulations
+**Platform:** Forage
+### Overview:
+
+Completed multiple real-world cybersecurity job simulations designed by leading companies (e.g., AIG, ANZ, DATACOM, Mastercard, PwC, Tata), covering essential cybersecurity tasks including identity and access management, incident response, risk assessment, threat intelligence, and policy development. These programs provided practical exposure to the daily responsibilities of cybersecurity professionals.
+
+<br> <br/>
+### Key Simulations Completed:
+
+### AIG – Shields Up Cybersecurity Virtual Experience Program
++ Analyzed and responded to evolving global threat landscapes
++ Evaluated cyber risk and crafted an incident response plan
++ Identified best practices for corporate cyber defense
+<div>
+<a href="https://www.theforage.com/virtual-internships/prototype/M7Nf5sGPX3QRm9Kz7/AIG-Shields-Up-Cybersecurity-Virtual-Experience-Program](https://1drv.ms/b/c/80f1bb1094f369e7/EWWqZjNotvVPlXdXcDJVTe0B2kTwsrom3OD6Nva2JxrJeg?e=TkYyfY">
+  <img src="https://img.shields.io/badge/-AIG%20Cybersecurity-003865?style=for-the-badge&logo=AIG&logoColor=white" />
+</a>
+<div/>
+<br> <br/>
+
+### ANZ Australia – Cyber Security Virtual Experience Program
++ Reviewed internal cyber threats and conducted risk assessments
++ Participated in scenario-based incident response activities
++ Drafted cybersecurity recommendations for executives
+<br> <br/>
+
+### DATACOM – Cybersecurity Job Simulation
++ Identified vulnerabilities in a simulated client environment
++ Developed remediation strategies and security roadmaps
++ Practiced communication of findings to business stakeholders
+<br> <br/>
+
+### Mastercard – Cybersecurity Analyst Program
++ Simulated real-time threat monitoring in a SOC (Security Operations Center)
++ Investigated phishing incidents and applied threat intelligence
++ Created executive-level briefings on cyber incidents
+<br> <br/>
+
+### PwC Switzerland – Cybersecurity Virtual Case Experience
++ Conducted a business risk and impact assessment
++ Evaluated client's security maturity and compliance standing
++ Presented findings in a professional consulting format
+<br> <br/>
+
+### Tata – Identity and Access Management (IAM) Program
++ Gained practical insight into IAM tools and frameworks
++ Managed simulated access controls and role-based permissions
++ Explored regulatory and compliance aspects of IAM
+<br> <br/>
+
+### Skills Gained:
++ Security risk assessment
++ Threat intelligence analysis
++ Identity and access management (IAM)
++ Incident response planning
++ Cybersecurity consulting and reporting
++ Understanding of frameworks: NIST, ISO 27001, GDPR
++ Executive communication of technical findings
+
+  <br> <br/>
 ## Tools
 
 
