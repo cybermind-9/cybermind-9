@@ -15,10 +15,10 @@ As an aspiring cybersecurity professional, my objective is to develop a deep und
 
 | Projects                                         | Links         | Skills  |
 |-----------------------------------------------|----------------------------|-------------------------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>| |
 | Network Traffic Monitoring and Attack Detection |<a href="https://google.com">Detection Lab</a> |
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | <a href="https://github.com/Itsme-crypto/Incident-Response-Framework/blob/main/README.md">Git Repository </a>|
+| Incident Response Planning and Execution      | <a href="https://github.com/Itsme-crypto/Incident-Response-Framework/blob/main/README.md">Git Repository </a>| Threat Detection & Analysis, Forensics & Root Cause Analysis,  Containment & Mitigation, Incident Documentation & Reporting,     Risk Assessment & Communication   |
 | Wazuh-based system monitoring           | <a href="https://github.com/Itsme-crypto/WazuhSecOps/blob/main/README.md">Git Repository </a>
 | OSSEC-IDS         | <a href="https://github.com/Itsme-crypto/OSSEC-IDS-Setup">Git Repository </a>
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
