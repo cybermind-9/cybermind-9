@@ -19,10 +19,10 @@ As an aspiring cybersecurity professional, my objective is to develop a deep und
 | Network Traffic Monitoring and Attack Detection |<a href="https://google.com">Detection Lab</a> |
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | <a href="https://github.com/Itsme-crypto/Incident-Response-Framework/blob/main/README.md">Git Repository </a>| Threat Detection & Analysis, Forensics & Root Cause Analysis,  Containment & Mitigation, Incident Documentation & Reporting,     Risk Assessment & Communication   |
-| Wazuh-based system monitoring           | <a href="https://github.com/Itsme-crypto/WazuhSecOps/blob/main/README.md">Git Repository </a>
-| OSSEC-IDS         | <a href="https://github.com/Itsme-crypto/OSSEC-IDS-Setup">Git Repository </a>
+| Wazuh-based system monitoring           | <a href="https://github.com/Itsme-crypto/WazuhSecOps/blob/main/README.md">Git Repository </a> | Security & Monitoring Skills, Technical & Infrastructure Skills,  System Administration, Networking & Protocol Knowledge, Analysis & Reporting   |
+| OSSEC-IDS         | <a href="https://github.com/Itsme-crypto/OSSEC-IDS-Setup">Git Repository </a> | Technical Implementation & Configuration, Operational and Analytical Skills, Documentation & Reporting, Log Collection & Analysis    |
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
-| Phishing Email Campaign Using Gophish | <a href="https://github.com/Itsme-crypto/Gophish-Phishing-Campaign">Git Repository </a>
+| Phishing Email Campaign Using Gophish | <a href="https://github.com/Itsme-crypto/Gophish-Phishing-Campaign">Git Repository </a>  | Cybersecurity Awareness & Social Engineering, Technical Implementation Skills, Phishing Campaign Management, Web & Security Concepts, Security Training & Awareness     |
 
 <br> <br/>
 # Certifications
