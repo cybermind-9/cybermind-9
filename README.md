@@ -15,13 +15,14 @@ As an aspiring cybersecurity professional, my objective is to develop a deep und
 
 | Projects                                         | Links         | Skills  |
 |-----------------------------------------------|----------------------------|-------------------------------------------|
-| SIEM Implementation and Log Analysis ,Scripting and Automation for Threat Mitigation         | <a href="https://google.com">Detection Lab</a>| |
+| SIEM Implementation and Log Analysis       | <a href="https://google.com">Detection Lab</a>| |
 | Network Traffic Monitoring and Attack Detection |<a href="https://google.com">Detection Lab</a> |
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | <a href="https://github.com/Itsme-crypto/Incident-Response-Framework/blob/main/README.md">Git Repository </a>| Threat Detection & Analysis, Forensics & Root Cause Analysis,  Containment & Mitigation, Incident Documentation & Reporting,     Risk Assessment & Communication   |
 | Wazuh-based system monitoring           | <a href="https://github.com/Itsme-crypto/WazuhSecOps/blob/main/README.md">Git Repository </a> | Security & Monitoring Skills, Technical & Infrastructure Skills,  System Administration, Networking & Protocol Knowledge, Analysis & Reporting   |
 | OSSEC-IDS         | <a href="https://github.com/Itsme-crypto/OSSEC-IDS-Setup">Git Repository </a> | Technical Implementation & Configuration, Operational and Analytical Skills, Documentation & Reporting, Log Collection & Analysis    |
 | Malware Dissection: Dual-Perspective Analysis with Ghidra and Cuckoo |  <a href="https://github.com/Itsme-crypto/Dual-Perspective-Malware-Analysis/blob/main/README.md">Git Repository </a>| Reverse Engineering, Static Malware Analysis, Dynamic Malware Analysis, IOC Identification, Virtualization & Isolation, Threat Hunting Mindset |
+| Scripting and Automation for Threat Mitigation      |  <a href="https://github.com/Itsme-crypto/Threat-Mitigation-Automation/blob/main/README.md">Git Repository </a> | Scripting & CLI Proficiency, Firewall Automation, Deployment Scheduling, Threat Intelligence Enrichment, Threat Detection Automation |
 | Phishing Email Campaign Using Gophish | <a href="https://github.com/Itsme-crypto/Gophish-Phishing-Campaign">Git Repository </a>  | Cybersecurity Awareness & Social Engineering, Technical Implementation Skills, Phishing Campaign Management, Web & Security Concepts, Security Training & Awareness     |
 
 <br> <br/>
