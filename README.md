@@ -3,20 +3,28 @@
 
 
 
-I am an entry-level cybersecurity analyst who has recently completed the Google Cybersecurity Professional Certification. I have acquired foundational skills and knowledge necessary for a career in cybersecurity. This certification equips me with practical expertise in areas such as network security, threat detection, incident response, and risk management. I am familiar with tools and techniques for identifying vulnerabilities, securing IT infrastructures, and protecting against cyber threats. I am also trained in monitoring security systems, analyzing logs, and responding to security breaches. This certification serves as a strong foundation for pursuing further development and more advanced roles in the cybersecurity field
+I am an aspiring cybersecurity analyst who has recently completed the Google Cybersecurity Professional Certificate, which provided a strong foundation in core cybersecurity concepts and practical experience with industry-standard tools and practices. Through this program, I developed skills in network security, threat detection, incident response, and risk management.
+
+I am trained to identify vulnerabilities, secure IT infrastructure, monitor security systems, analyze logs, and respond to potential threats. The coursework included hands-on labs and real-world scenarios that simulated common cybersecurity challenges.
+
+In addition to the Google certification, I completed a virtual cybersecurity internship, where I applied my knowledge in simulated real-world environments. During the internship, I worked on tasks such as analyzing security incidents, identifying system vulnerabilities, and assisting with basic incident response procedures.
+
+To further strengthen my credentials, I have also earned the ISO/IEC 27001:2022 Lead Auditor certification and completed training in Securing and Monitoring AWS Infrastructure. These certifications have enhanced my understanding of information security management systems (ISMS) and cloud security best practices.
+
+I am now fully prepared and eager to contribute in an entry-level cybersecurity analyst role, with a strong commitment to continuous learning and professional growth in the cybersecurity field.
 
 <br> <br/>
+
 # Objective
-As an aspiring cybersecurity professional, my objective is to develop a deep understanding of security principles, threat detection, and risk mitigation. I am committed to continuously building hands-on skills through training, certifications, and real-world experience to contribute to safeguarding digital environments and becoming a valuable asset to any security team.
+As an aspiring cybersecurity professional, my objective is to build a strong foundation in security principles, threat detection, and risk mitigation while continuously expanding my technical expertise. I am committed to gaining hands-on experience through certifications, practical training, and real-world applications to effectively contribute to securing digital environments and becoming a reliable and impactful member of a cybersecurity team.
 
 <br> <br/>
+
 # Projects 
 
 
 | Projects                                         | Links         | Skills  |
 |-----------------------------------------------|----------------------------|-------------------------------------------|
-| SIEM Implementation and Log Analysis       | <a href="https://google.com">Detection Lab</a>| |
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Wazuh-based system monitoring           | <a href="https://github.com/Itsme-crypto/WazuhSecOps/blob/main/README.md">Git Repository </a> | Security & Monitoring Skills, Technical & Infrastructure Skills,  System Administration, Networking & Protocol Knowledge, Analysis & Reporting   |
 | OSSEC-IDS         | <a href="https://github.com/Itsme-crypto/OSSEC-IDS-Setup">Git Repository </a> | Technical Implementation & Configuration, Operational and Analytical Skills, Documentation & Reporting, Log Collection & Analysis    |
 | Incident Response Planning and Execution      | <a href="https://github.com/Itsme-crypto/Incident-Response-Framework/blob/main/README.md">Git Repository </a>| Threat Detection & Analysis, Forensics & Root Cause Analysis,  Containment & Mitigation, Incident Documentation & Reporting,     Risk Assessment & Communication   |
